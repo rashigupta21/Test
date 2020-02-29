@@ -4,3 +4,5 @@ Welcome to recipes
 
 Pasta
 Kheer
+Chicken
+Fish
